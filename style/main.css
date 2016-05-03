@@ -1,0 +1,29 @@
+      body {
+        background-color: #FFFFFF;
+        margin: 0;
+        padding: 0;
+        z-index: 11;
+        }
+
+
+      
+      @font-face {
+        font-family: Blackout;
+        src:
+          url('fonts/blackout_midnight-webfont.ttf'), 
+          url('fonts/blackout_midnight-webfont.svg'),
+          url('fonts/blackout_midnight-webfont.eot'),
+          url('fonts/blackout_midnight-webfont.woff');
+        }
+
+
+p {
+  font-family: Blackout, sans-serif;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 100%;
+  text-align: center;
+  color: Grey;
+
+}
+
